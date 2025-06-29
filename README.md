@@ -1,29 +1,29 @@
 **✅🔸✅ Core Classical ML Models (Supervised Learning)**
 Implement these from scratch and with libraries like scikit-learn.
 
-**✅ Classification:**
-Logistic Regression
-
-K-Nearest Neighbors (KNN)
-
-Support Vector Machine (SVM)
-
-Decision Trees
-
-Random Forest
-
-Gradient Boosting (XGBoost / LightGBM / CatBoost)
-
 **✅ Regression:**
-Linear Regression
+1. Linear Regression
 
-Ridge & Lasso Regression
+2. Ridge & Lasso Regression
 
-Decision Tree Regressor
+3. Decision Tree Regressor
 
-Random Forest Regressor
+4. Random Forest Regressor
 
-Gradient Boosting Regressor
+5. Gradient Boosting Regressor
+
+**✅ Classification:**
+1. Logistic Regression
+
+2. K-Nearest Neighbors (KNN)
+
+3. Support Vector Machine (SVM)
+
+4. Decision Trees
+
+5. Random Forest
+
+6. Gradient Boosting (XGBoost / LightGBM / CatBoost)
 
 **✅🔸✅ Unsupervised Learning Models**
 Helps with pattern recognition and clustering.
