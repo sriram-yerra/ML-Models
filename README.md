@@ -68,19 +68,19 @@ These are essential for computer vision, NLP, and complex tasks.
 6. Seq2Seq with Attention
 
 **✅🔸✅ Natural Language Processing (NLP)**
-Hands-on implementation with libraries like spaCy, Transformers, NLTK.
+1. Hands-on implementation with libraries like spaCy, Transformers, NLTK.
 
-TF-IDF + Logistic Regression / SVM for Text Classification
+2. TF-IDF + Logistic Regression / SVM for Text Classification
 
-Named Entity Recognition (NER)
+3. Named Entity Recognition (NER)
 
-Text Summarization (Extractive & Abstractive)
+4. Text Summarization (Extractive & Abstractive)
 
-Sentiment Analysis (from scratch + with BERT)
+5. Sentiment Analysis (from scratch + with BERT)
 
-Translation using seq2seq
+6. Translation using seq2seq
 
-BERT / DistilBERT fine-tuning
+7. BERT / DistilBERT fine-tuning
 
 **🔸 Reinforcement Learning (RL) [Basic Level]**
 1. Q-Learning (Tabular)
