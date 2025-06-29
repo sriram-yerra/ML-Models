@@ -1,4 +1,4 @@
-**🔸 Core Classical ML Models (Supervised Learning)**
+**✅🔸✅ Core Classical ML Models (Supervised Learning)**
 Implement these from scratch and with libraries like scikit-learn.
 
 **✅ Classification:**
@@ -25,7 +25,7 @@ Random Forest Regressor
 
 Gradient Boosting Regressor
 
-**🔸 Unsupervised Learning Models**
+**✅🔸✅ Unsupervised Learning Models**
 Helps with pattern recognition and clustering.
 
 K-Means Clustering
@@ -40,7 +40,7 @@ t-SNE / UMAP (for visualization)
 
 Autoencoders (deep unsupervised learning)
 
-**🔸 Deep Learning Models (Using PyTorch / TensorFlow)**
+**✅🔸✅ Deep Learning Models (Using PyTorch / TensorFlow)**
 These are essential for computer vision, NLP, and complex tasks.
 
 **✅ Neural Networks:**
@@ -65,7 +65,7 @@ Transformer (BERT, ViT) – for NLP and vision
 
 Seq2Seq with Attention
 
-**🔸 Natural Language Processing (NLP)**
+**✅🔸✅ Natural Language Processing (NLP)**
 Hands-on implementation with libraries like spaCy, Transformers, NLTK.
 
 TF-IDF + Logistic Regression / SVM for Text Classification
