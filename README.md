@@ -28,42 +28,44 @@ Implement these from scratch and with libraries like scikit-learn.
 **✅🔸✅ Unsupervised Learning Models**
 Helps with pattern recognition and clustering.
 
-K-Means Clustering
+1. K-Means Clustering
 
-DBSCAN
+2. DBSCAN
 
-Hierarchical Clustering
+3. Hierarchical Clustering
 
-Principal Component Analysis (PCA)
+4. Principal Component Analysis (PCA)
 
-t-SNE / UMAP (for visualization)
+5. t-SNE / UMAP (for visualization)
 
-Autoencoders (deep unsupervised learning)
+6. Autoencoders (deep unsupervised learning)
 
 **✅🔸✅ Deep Learning Models (Using PyTorch / TensorFlow)**
 These are essential for computer vision, NLP, and complex tasks.
 
 **✅ Neural Networks:**
-Feedforward Neural Network (FNN / MLP)
+1. Feedforward Neural Network (FNN / MLP)
 
-Convolutional Neural Network (CNN)
+2. Convolutional Neural Network (CNN)
 
-Recurrent Neural Network (RNN) – for time series
+3. Recurrent Neural Network (RNN) – for time series
 
-LSTM / GRU
+4. LSTM / GRU
 
-Autoencoders (Denoising, Variational)
+5. Autoencoders (Denoising, Variational)
 
 **✅ Advanced Architectures:**
-U-Net (for image segmentation)
+1. U-Net (for image segmentation)
 
-ResNet / EfficientNet (for image classification)
+2. ResNet / EfficientNet (for image classification)
 
-YOLO (v5 to v8) – for object detection
+3. YOLO (v5 to v8) – for object detection
 
-Transformer (BERT, ViT) – for NLP and vision
+4. Paddle OCR
 
-Seq2Seq with Attention
+5. Transformer (BERT, ViT) – for NLP and vision
+
+6. Seq2Seq with Attention
 
 **✅🔸✅ Natural Language Processing (NLP)**
 Hands-on implementation with libraries like spaCy, Transformers, NLTK.
@@ -81,6 +83,6 @@ Translation using seq2seq
 BERT / DistilBERT fine-tuning
 
 **🔸 Reinforcement Learning (RL) [Basic Level]**
-Q-Learning (Tabular)
+1. Q-Learning (Tabular)
 
-Deep Q-Network (DQN) – using Stable-Baselines3
+2. Deep Q-Network (DQN) – using Stable-Baselines3
