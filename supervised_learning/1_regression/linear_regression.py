@@ -80,7 +80,7 @@ coef_df = pd.DataFrame({
 coef_df_sorted = coef_df.sort_values(by='Coefficient', key=abs, ascending=False)
 print(coef_df_sorted)
 
-print("\n✅ Linear Regression pipeline completed successfully!")
+# print("\n✅ Linear Regression pipeline completed successfully!")
 
 
 
