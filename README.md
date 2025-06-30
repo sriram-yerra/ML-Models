@@ -2,7 +2,7 @@
 Implement these from scratch and with libraries like scikit-learn.
 
 **✅ Regression:**
-1. Linear Regression
+1. Linear Regression ✅
 
 2. Ridge & Lasso Regression
 
