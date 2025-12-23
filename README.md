@@ -1,3 +1,8 @@
+**✅ Regression:**
+1. Numpy
+
+2. Pandas
+
 **✅🔸✅ Core Classical ML Models (Supervised Learning)**
 Implement these from scratch and with libraries like scikit-learn.
 
