@@ -27,7 +27,7 @@ plt.show()
 
 
 #--------------------------------------------------#
-# Calculating intercept and slope values            #
+# Calculating intercept and slope values           #
 # for Linear Regression model                      #
 #--------------------------------------------------#
 from sklearn.linear_model import LinearRegression
@@ -82,6 +82,8 @@ plt.figure(figsize=[5.5, 4])
 # Plot original data points
 plt.plot(x, y, 'b.')
 
+# sorted_idx = np.argsort(x[:,0])
+# x_sorted = x[sorted_idx]
 # Linear Regression prediction (alpha = 0)
 plt.plot(x, regressor.predict(x), color='red', label='alpha=0')
 
@@ -113,8 +115,8 @@ class MyElasticNetRegression:
         # NOTE: sklearn uses coordinate descent internally.
         # This is a conceptual approximation.
 
-        num = 0
-        den = 0
+        num = 0 # covariance(x,y)
+        den = 0 # variance(x)
         
         # Computing numerator and denominator
         for i in range(x_train.shape[0]):
