@@ -1,4 +1,6 @@
-** Basic Libraries:**
+**Try Completing the UDEMY ML Course end-to-end with Mathematics intution..!**
+
+**Basic Libraries:**
 1. Numpy
 
 2. Pandas
